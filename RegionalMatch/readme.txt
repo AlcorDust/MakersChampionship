@@ -1,5 +1,7 @@
 Regional match (Lazio), keyword: SECURITY
 
+We won this championship!
+
 Smartattack team presents the Crowd Manager: a cheap and easy to use tool to manage visitors in museums. 
 Each visitor has an IR emitter installed inside the voice guide device (powered by headphone jack) which transmits every second its ID number. 
 
@@ -15,3 +17,4 @@ What we used:
 
 For further informations contact us!
 
+The Smartattack team
